@@ -1,0 +1,32 @@
+# ELK installations
+Task2_ELK_SIEM/Elasticsearch/
+Task2_ELK_SIEM/Kibana/
+Task2_ELK_SIEM/Logstash/
+Task2_ELK_SIEM/elasticsearch-*/
+Task2_ELK_SIEM/kibana-*/
+Task2_ELK_SIEM/logstash-*/
+
+# Virtual machines
+**/Virtual_Machines/
+*.vdi
+*.vbox
+*.vbox-prev
+*.vmdk
+*.ova
+*.ovf
+
+# Logs and temporary files
+*.log
+logs/
+data/
+node_modules/
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Ignore ISO images
+*.iso
+ISOs/
+**/ISOs/
