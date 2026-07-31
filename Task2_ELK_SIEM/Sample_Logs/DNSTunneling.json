@@ -1,0 +1,6 @@
+{
+  "@timestamp":"2026-07-31T10:15:00Z",
+  "event_type":"dns",
+  "dns_query":"malicious.example.com",
+  "source_ip":"192.168.1.20"
+}
